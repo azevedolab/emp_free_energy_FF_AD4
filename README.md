@@ -8,6 +8,7 @@ AutoDock 4 estimates free energy of binding for a receptor-ligand complex using 
 
 
 References
+
 Heck GS, Pintro VO, Pereira RR, de Ávila MB, Levin NMB, de Azevedo WF. Supervised Machine Learning Methods Applied to Predict Ligand-Binding Affinity. Curr Med Chem. 2017; 24(23): 2459–2470. 
 
 Morris GM, Huey R, Lindstrom W, Sanner, MF, Belew RK, Goodsell DS, Olson AJ. Autodock4 and AutoDockTools4: automated docking with selective receptor flexibility. J Comput Chem 2009 30: 2785–2791.
