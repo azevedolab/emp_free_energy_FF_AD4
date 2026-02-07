@@ -12,6 +12,21 @@ Morris GM, Huey R, Lindstrom W, Sanner, MF, Belew RK, Goodsell DS, Olson AJ. Aut
 Xavier MM, Heck GS, de Avila MB, Levin NM, Pintro VO, Carvalho NL, Azevedo WF Jr. SAnDReS a Computational Tool for Statistical Analysis of Docking Results and Development of Scoring Functions. Comb Chem High Throughput Screen. 2016; 19(10): 801–812.
 
 <br> </br>
+<H2>Additional Material Related to emp_free_energy_FF_AD4</H2>
+<a href = "https://doi.org/10.1007/978-1-0716-4949-7" title = "de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026.">
+<img src="https://drive.usercontent.google.com/download?id=1qWkaR3YMBMcfofbC9uYrq-gSfsR1BTjx&export=view&authuser=0" width=200 align=left title="de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026.">
+</a>
+<p>
+de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026. <a href = "https://doi.org/10.1007/978-1-0716-4949-7" title = "de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026.">DOI: 10.1007/978-1-0716-4949-7</a>
+</p>
+<a href="https://www.amazon.com/Docking-Screens-Discovery-Methods-Molecular-ebook/dp/B0FVTT27Z9">
+<img src="https://drive.usercontent.google.com/download?id=1ktGUzRY-SOoRjdvc6xKzzBNXzB6ibJfc&export=view&authuser=0" width=100 align=left title="de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026.">
+</a>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
 <h2>Prof. Dr. Walter F. de Azevedo, Jr.</h2>
 <img src="https://drive.usercontent.google.com/download?id=1ao9REI0b_bCbjDy2pu4k3Tbr35LCB5Qt&export=view&authuser=0" width=200 align=left title="Walter Filgueira de Azevedo, Jr. October 02, 2024. Alfenas-MG. Brazil."></a>
 <p>
