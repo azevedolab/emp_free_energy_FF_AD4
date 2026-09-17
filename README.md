@@ -1,4 +1,4 @@
-<H1>Empirical Free Energy Force Field for AutoDock 4</H1>
+<H1>Empirical Free Energy Force Field for AutoDock4</H1>
 
 AutoDock 4 estimates free energy of binding for a receptor-ligand complex using a semi-empirical free energy force field. This force field has been calibrated against a dataset composed of crystallographic structures for which ligand-binding affinity data is known (Morris et al., 2009). The present Python code calculates the van der Waals, intermolecular hydrogen bond, electrostatic interaction, and desolvation potentials based on the atomic coordinates of the ligand and the receptor. This program reads atomic coordinates in the PDBQT format and prints the potential energy terms. It is not calibrated for a specific dataset, so it might be used to develop targeted-scoring functions, which may be used to explore the scoring function space (Heck et al. 2017). The zipped folder has the atomic coordinates for both, receptor (receptor.pdbqt) and ligand (lig.pdbqt) structures. I intend to use this code to develop a new tool in the SAnDReS program (Xavier et al., 2016)( https://github.com/azevedolab/sandres) to generate targeted-scoring functions.
 
@@ -32,7 +32,7 @@ de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, 
 <img src="https://drive.usercontent.google.com/download?id=1rL_DWbMj6timTlYlhn9Hwm1acq8AU4QV&export=view&authuser=0" height=24 alt="Link to Google Scholar"></a>  
 <a href="https://www.scopus.com/authid/detail.uri?authorId=7006435557" title = "Link to Scopus">
 <img src="https://drive.usercontent.google.com/download?id=1URGO8UDkZV_4wX_4c0_gUvhEjfnUyqCQ&export=view&authuser=0" height=24 alt="Link to Scopus"></a>
-<a href="https://heyzine.com/flip-book/8d3ce2eb08.html" title = "Link to Curriculum Vitae (Flipbook)">
-<img src="https://drive.usercontent.google.com/download?id=17kToUZlwbJ4PgorpUY7EGQA1lFnR_2Gh&export=view&authuser=0" height=24 alt="Link to Curriculum Vitae (Flipbook)"></a>
+<a href="https://heyzine.com/flip-book/693998babe.html" title = "Link to Curriculum Vitae (Flipbook)">
+<img src="https://drive.usercontent.google.com/download?id=17kToUZlwbJ4PgorpUY7EGQA1lFnR_2Gh&export=view&authuser=0" height=24 alt="Link to Curriculum Vitae (Flipbook)"></a> 
 
 <br> </br>
